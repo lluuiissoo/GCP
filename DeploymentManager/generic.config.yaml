@@ -1,0 +1,6 @@
+resources:
+    # Create the auto-mode network
+    - name: [RESOURCE_NAME]
+      type: [RESOURCE_TYPE]
+      properties:
+        #RESOURCE properties go here
